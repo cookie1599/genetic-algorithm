@@ -1,5 +1,7 @@
-geneSet="abcdefghijklmnopqrstuvwxyz1234567890-"
-target="hazmo0on" #you can 
+#you can add more variables
+geneSet="abcdefghijklmnopqrstuvwxyz1234567890-" 
+#you can rename target ex:"sapi-dilaut" or "sendal"
+target="hazmo0on" 
 
 
 import random
